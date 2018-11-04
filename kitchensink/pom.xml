@@ -23,6 +23,14 @@
       <id>maven-public</id>
       <url>http://nexus-jenkins.c01paas.bytewise.com.my/repository/maven-public/</url>
     </repository>
+    <repository>
+      <id>jboss</id>
+      <url>http://nexus-jenkins.c01paas.bytewise.com.my/repository/jboss-ce/</url>
+    </repository>
+    <repository>
+      <id>tech-preview</id>
+      <url>http://nexus-jenkins.c01paas.bytewise.com.my/repository/redhat-techpreview/</url>
+    </repository>
     </repositories>
     <parent>
         <groupId>org.jboss.eap.quickstarts</groupId>
