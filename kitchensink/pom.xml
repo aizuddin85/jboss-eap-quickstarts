@@ -21,7 +21,7 @@
     <repositories>
      <repository>
       <id>maven-public</id>
-       <url>http://nexus-jenkins.c01paas.bytewise.com.my/repository/maven-public/</url>
+       <url>http://nexus-jenkins.c01paas.bytewise.com.my/repository/maven-central/</url>
      </repository>
     </repositories>
     <parent>
