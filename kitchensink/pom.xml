@@ -20,7 +20,7 @@
     <modelVersion>4.0.0</modelVersion>
      <repositories>
     <repository>
-      <id>maven-group</id>
+      <id>maven-public</id>
       <url>http://nexus-jenkins.c01paas.bytewise.com.my/repository/maven-public/</url>
     </repository>
     </repositories>
